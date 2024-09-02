@@ -9,7 +9,7 @@
 git clone https://github.com/OpenHUTB/carla_cpp.git
 ```
 
-3.在项目主目录下运行以下命令，根据 C++ 代码生成对应的 html 文档：
+3.在项目主目录下运行以下命令，根据 C++ 代码生成对应的html 文档：
 ```shell script
 doxygen
 ```
